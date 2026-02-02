@@ -1,8 +1,8 @@
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox                                          #   +-------------------+
-from tkinter import Canvas                                              #   |  Tejas Codes :D   |
-import mysql.connector as my                                            #   |   30-04-2025      |
+from tkinter import Canvas                                              #   |    Ridhima        |
+import mysql.connector as my                                            #   |   30-09-2025      |
 import os                                                               #   +-------------------+
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import matplotlib.pyplot as plt
